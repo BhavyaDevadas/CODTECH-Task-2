@@ -8,6 +8,10 @@ Duration: SEPTEMBER 16th, 2024 to OCTOBER 15th, 2024
 
 ## Project: To-Do List
 
+![Screenshot 2024-10-13 210013](https://github.com/user-attachments/assets/a9c37e2b-f696-48f9-ad1a-815b32ac2420)
+
+
+
 ## Objective
 The objective of this To-Do List website is to provide users with a simple and user-friendly way to manage their daily tasks. The website allows users to add, mark as completed, and delete tasks from a list. It is designed to be visually appealing with a professional interface that includes a background image and responsive design, making it usable on different devices.
 
