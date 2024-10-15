@@ -3,6 +3,7 @@ Company: CODTECH IT SOLUTIONS
 ID: CT04DS7822
 Domain: Web Developement
 Duration: SEPTEMBER 16th, 2024 to OCTOBER 15th, 2024
+Mentor: Neela Santhosh Kumar
 
 ## Overview of the Project
 
